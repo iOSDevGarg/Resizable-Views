@@ -1,4 +1,4 @@
-# DraggableView
+# Resizable-Views
 
 This sample Project make A View Being Dragged in View and Change its And other used views Height According to the Requirement and changes made
 
